@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Kwangho%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=line)](https://github.com/****/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=line931114)](https://github.com/****/github-readme-stats)
 
 
 <!--
