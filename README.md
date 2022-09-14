@@ -1,6 +1,5 @@
 ### 이광호 Kwang ho, Lee 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Kwangho%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 💻 Web Engineer   
 👩‍🎓  NaonSoft . Company
@@ -9,7 +8,6 @@
 **[EMAIL](dlrhkdgh3333@naver.com || line@naonsoft.com )** |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=line931114)](https://github.com/****/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -29,4 +27,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Kwangho%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=line931114)](https://github.com/****/github-readme-stats)
+
 -->
