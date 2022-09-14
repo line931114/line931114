@@ -8,12 +8,18 @@
 **[EMAIL](dlrhkdgh3333@naver.com || line@naonsoft.com )** |
 
 
-
+                                  💻 My Stacks   
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![EclipseIDE](https://img.shields.io/badge/-EclipseIDE-1F305F?style=flat-square&logo=EclipseIDE&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769ADF?style=flat-square&logo=jQuery&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
+
+                                   📌Configuration Management
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
 
 
 <!--
