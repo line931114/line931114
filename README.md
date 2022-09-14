@@ -13,7 +13,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![EclipseIDE](https://img.shields.io/badge/-EclipseIDE-1F305F?style=flat-square&logo=EclipseIDE&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-#0769ADF?style=flat-square&logo=jQuery&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769ADF?style=flat-square&logo=jQuery&logoColor=white)
 
 
 <!--
