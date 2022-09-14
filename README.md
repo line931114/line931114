@@ -1,11 +1,13 @@
 ### 이광호 Kwang ho, Lee 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Kwangho%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+
 💻 Web Engineer   
 👩‍🎓  NaonSoft . Company
+
 📌 **[MEDIUM](https://blog.naver.com/dlrhkdgh3333)** |
 **[EMAIL](dlrhkdgh3333@naver.com || line@naonsoft.com )** |
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Kwangho%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=line931114)](https://github.com/****/github-readme-stats)
 
