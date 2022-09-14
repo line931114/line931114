@@ -4,8 +4,8 @@
 💻 Web Engineer   
 👩‍🎓  NaonSoft . Company
 
-📌 **[MEDIUM](https://blog.naver.com/dlrhkdgh3333)** |    
-✉  **[EMAIL](dlrhkdgh3333@naver.com || [Company Email]line@naonsoft.com )** |
+📌 **[Blog](https://blog.naver.com/dlrhkdgh3333)** |    
+✉  **[EMAIL](dlrhkdgh3333@naver.com) || [Company Email](line@naonsoft.com )** |
 
 
 💻Stack   
