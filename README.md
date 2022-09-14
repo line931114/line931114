@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse IDE-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![EclipseIDE](https://img.shields.io/badge/-EclipseIDE-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
 <!--
